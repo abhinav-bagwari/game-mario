@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/71334027/151668507-3076c506-6e31-49cc-
 - #### install the rest webpack by refering here --> https://webpack.js.org/loaders/babel-loader/
 - #### for audio install howler in your local pc  --> npm install howler
 - #### clone the repository and extract all the data 
-- #### to start the build pack run "npm start" where the game is located
+- #### to start the build pack open the terminal where the game is located and run "npm start"
 
 
 

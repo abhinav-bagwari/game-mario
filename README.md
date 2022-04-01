@@ -1,6 +1,6 @@
 # game-mario
  
-- ### Created the game with the help of HTML Canvas an pure Javascript.
+- ### Created the game with the help of HTML Canvas and pure Javascript.
  
 https://user-images.githubusercontent.com/71334027/151668507-3076c506-6e31-49cc-bc23-e804b89b1069.mp4
 
